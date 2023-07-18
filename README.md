@@ -1,6 +1,6 @@
-# Customers, departaments web db
+# Clientes, departamentos Web BD
 
-Bienvenido al proyecto Clientes y departamentos. El objetivo del proyecto es crear una aplicación BackEnd con las opciones de crear, leer, actualizar y eliminar (CRUD) clientes y departamentos.
+Bienvenido al proyecto de clientes y departamentos. El objetivo del proyecto es crear una aplicación BackEnd con las opciones de crear, leer, actualizar y eliminar (CRUD) clientes y departamentos.
 
 ## Instalar dependencias
 
